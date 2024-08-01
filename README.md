@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @dharshiyan
-- 👀 I’m interested in data sciences
-- 🌱 I’m currently doing my UG in st.joseph's  institute of technology
+I’m Dharshiyan, an aspiring Python developer with a focus on foundational skills and practical projects.
 
-<!---
-dharshiyan/dharshiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Focus Areas:
+- Python programming
+- Basic data analysis
+- Simple web applications with Flask
+
+🌱 Currently Learning:
+- UI/UX
+- Graphics Designing
+- Fire base
+
+💼 Looking to connect with fellow developers and contribute to projects. 
+
+📧 Contact: [dharshiyan.3112@gmail.com]
