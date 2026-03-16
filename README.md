@@ -29,10 +29,13 @@
 <img src="https://skillicons.dev/icons?i=python,java"/>
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,keras"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### Web Development
@@ -44,9 +47,16 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,kaggle,huggingface"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,"/>
 </p>
 
+### 🤗 AI Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 ---
 
 # 🚀 Current Learning
@@ -111,12 +121,34 @@
 
 ---
 
+## 📊 Kaggle Profile
+
+<p align="center">
+<a href="https://www.kaggle.com/dharshiyanacc">
+<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle"/>
+</a>
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/dharshiyan">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.kaggle.com/dharshiyanacc">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/dharshiyan">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharshiyan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
