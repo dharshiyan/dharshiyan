@@ -105,13 +105,6 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/dharshiyan/dharshiyan/output/github-contribution-grid-snake.svg"/>
-</p>
----
-
 # 👀 Profile Visitors
 
 <p align="center">
