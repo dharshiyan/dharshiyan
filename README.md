@@ -113,16 +113,6 @@
 
 ---
 
-## 📊 Kaggle Profile
-
-<p align="center">
-<a href="https://www.kaggle.com/dharshiyanacc">
-<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle"/>
-</a>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
