@@ -106,6 +106,16 @@
 
 ---
 
+## 🧠 LeetCode Profile
+
+<p align="center">
+<a href="https://leetcode.com/u/dharshiyan/">
+<img src="https://leetcard.jacoblin.cool/dharshiyan?theme=dark&font=Baloo"/>
+</a>
+</p>
+
+---
+
 # 👀 Profile Visitors
 
 <p align="center">
@@ -132,6 +142,10 @@
 
 <a href="https://www.linkedin.com/in/dharshiyan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/dharshiyan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
