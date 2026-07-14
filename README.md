@@ -70,11 +70,12 @@
 
 # 📂 Featured Projects
 
-| Project | Description | Tech |
-|------|-------------|------|
-| Smart Surveillance System | AI based customer movement tracking | YOLOv8, DeepSORT |
-| Dog vs Cat Classifier | CNN based image classifier | TensorFlow |
-| Smart Notes React | Lightweight notes manager | React |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **RiskGuard-AI (🚧 Ongoing)** | AI-powered intelligent surveillance system for real-time threat detection, person tracking, suspicious activity recognition, multi-camera monitoring, and edge deployment optimized for both low-end and high-end devices. | Python, PyTorch, YOLOv11, ByteTrack, OpenCV, FastAPI, ONNX, Docker |
+| **NovaPixel (🚧 Ongoing)** | Deep learning-based image super-resolution model developed from scratch to upscale low-resolution images into high-quality outputs without using pretrained models. | Python, PyTorch, OpenCV, NumPy |
+| **Multiclass Spam & Phishing Detection** | Machine learning system for classifying spam, phishing, and legitimate messages using a large-scale dataset with TF-IDF feature engineering and text preprocessing. | Python, Scikit-learn, Pandas, NumPy, TF-IDF, Logistic Regression |
+| **Dog vs Cat Image Classifier** | Convolutional Neural Network (CNN) model for binary image classification of cats and dogs with image preprocessing and model evaluation. | Python, TensorFlow, Keras, OpenCV |
 
 ---
 
